@@ -15,7 +15,7 @@ ActiveRecord::Schema.define(version: 2022_02_14_180911) do
   create_table "choices", force: :cascade do |t|
     t.integer "conversation_id"
     t.string "text"
-    t.integer "end_room_id"
+    t.integer "next_conversation_id"
   end
 
   create_table "conversations", force: :cascade do |t|
