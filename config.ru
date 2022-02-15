@@ -16,3 +16,4 @@ use Rack::JSONBodyParser
 # Our application
 run ApplicationController
 use RoomsController
+use ConversationsController
