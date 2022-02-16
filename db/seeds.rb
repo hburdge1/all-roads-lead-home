@@ -37,13 +37,13 @@ Your eyes flicker open, the droplets of water leaking from the high basement win
 choice1_a =
   Choice.create(
     conversation_id: 1,
-    text: 'hunt in the dark for a flashlight, moving further from the exit',
+    text: 'Hunt in the dark for a flashlight, moving further from the exit',
     next_conversation_id: 2,
   )
 
 Choice.create(
   conversation_id: 1,
-  text: 'grope your way through the darkness to get to the basement door',
+  text: 'Grope your way through the darkness to get to the basement door',
   next_conversation_id: 3,
 )
 
