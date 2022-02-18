@@ -275,7 +275,7 @@ _2a_2_a =
   Conversation.create(
     room_id: foyer.id,
     text:
-      'You turn back to Toby, who just uncorked the bottle of wine and is grabbing a glass– when you’re distracted by a horrifyingly familiar beeping. No. I stopped it! Turning around you see that the hallway where the candelabra had fallen is totally clear– however, the side of the christmas tree nearest the fireplace is glowing, alight with orange flame.',
+      'You turn back to Toby, who just grabbed a glass and is about to begin pouring– when you’re distracted by a horrifyingly familiar beeping. No. I stopped it! Turning around you see that the hallway where the candelabra had fallen is totally clear– however, the side of the christmas tree nearest the fireplace is glowing, alight with orange flame.',
   )
 
 _2a_3 =
