@@ -17,3 +17,4 @@ use Rack::JSONBodyParser
 run ApplicationController
 use RoomsController
 use ConversationsController
+use UsersController
